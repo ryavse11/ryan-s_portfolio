@@ -1,7 +1,6 @@
 # ryan-s_portfolio
 <H2> Data Analytics Portfolio
 
-
 <h2 align="left">1. Global MRC Segment Dashboard
   
 <h5>
