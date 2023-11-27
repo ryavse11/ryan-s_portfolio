@@ -48,3 +48,22 @@ The dashboard is viewed by all segment leadership, global MRC managers, and mark
 ![image](https://github.com/ryavse11/ryan-s_portfolio/assets/151677676/d8c9c4da-f364-4143-841d-42ddc45201cc)
 
 
+<h2 align="left"> 3. Global MRC WWPS Dashboard 
+
+<h5>
+
+•	Dashboard Link: https://mtableau.aka.amazon.com/#/views/MRCWWPSDashboardV1_0/WWPSRegionalReport?:iid=2
+
+•	Intended Audience: WWPS Stakeholders, GDSC WWPS Managers, GDSC PS Leaders, GDSC PS Reps, etc
+
+•	Metrics and Insights: 
+
+- YTD Attainment / WWPS GDSC Coverage
+-	GDSC WWPS Region Results 
+-	Downstream Impact (SQL, SQO, and SWO) / Attain%
+-	Monthly Attainment / GDSC PS Team Contribution
+  
+![image](https://github.com/ryavse11/ryan-s_portfolio/assets/151677676/c332c1a2-6b64-4a5f-b8d3-d11cf4ce2542)
+
+
+
