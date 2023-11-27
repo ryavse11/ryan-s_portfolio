@@ -2,7 +2,7 @@
 Data Analytics Portfolio
 
 
-<h2></h2> align="center">1. Global MRC Segment Dashboard <h2>
+1. Global MRC Segment Dashboard
 
 
 
