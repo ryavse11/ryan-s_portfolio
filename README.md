@@ -63,7 +63,11 @@ The dashboard is viewed by all segment leadership, global MRC managers, and mark
 -	Downstream Impact (SQL, SQO, and SWO) / Attain%
 -	Monthly Attainment / GDSC PS Team Contribution
   
-![image](https://github.com/ryavse11/ryan-s_portfolio/assets/151677676/c332c1a2-6b64-4a5f-b8d3-d11cf4ce2542)
+![image](https://github.com/ryavse11/ryan-s_portfolio/assets/151677676/c5aea0ff-e5d7-4034-9033-7d8f7ae5f58f)
+
+![image](https://github.com/ryavse11/ryan-s_portfolio/assets/151677676/fdae29cf-85e7-4d73-aac5-8aa83436d36f)
+
+
 
 
 
