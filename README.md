@@ -26,3 +26,18 @@ The Global MRC Segment Dashboard was created with the intent of tracking the fol
 
 
 
+<h2 align="left"> 2. AMER MRC-DG Alignment Dashboard 
+
+
+•	Dashboard Link: https://mtableau.aka.amazon.com/#/views/USCanadaMRCDGAlignmentPersonaReport/USCanadaMRC2022DGAlignmentDashboard_1?:iid=2
+
+•	Intended Audience: AMER DG Managers, AMER GDSC Managers, AMER GDSC Reps, etc. 
+
+•	Metrics and Insights: 
+
+- MQLs Attributed to NAMER and LATAM GDSC
+-	SQL and SQO Pipeline Revenues per Segment/DG rep 
+-	NAMER & LATAM GDSC MQL Persona View
+-	Attributed Campaigns and Member Status Breakdown
+  
+![image](https://github.com/ryavse11/ryan-s_portfolio/assets/151677676/04d971a2-97fd-45fd-9db8-a77aaaff2958)
