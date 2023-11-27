@@ -68,6 +68,27 @@ The dashboard is viewed by all segment leadership, global MRC managers, and mark
 ![image](https://github.com/ryavse11/ryan-s_portfolio/assets/151677676/fdae29cf-85e7-4d73-aac5-8aa83436d36f)
 
 
+<h2 align="left"> 4. AMER MRC Call Analysis
+
+<h5>
+
+•	Dashboard Link: https://mtableau.aka.amazon.com/#/views/US_Canada_MRC_Call_Analysis_Report/USCanadaMRC2021CallAnalysisReport?:iid=1
+
+•	Intended Audience: NAMER MRC Manager, AMER Segment Leaders, US & Canada MRC Reps
+
+•	Metrics and Insights: 
+
+-	NAMER MRC Call Connect Rate
+-	Time of the Day with Higher Connect Rate
+-	Day of the Week with Higher Connect Rate
+-	Local Presence Analysis
+-	Connect Rate per Industry/Job Role
+
+![image](https://github.com/ryavse11/ryan-s_portfolio/assets/151677676/b4e772d0-88b3-4303-aa67-cb78adad83cf)
+
+![Uploading image.png…]()
+
+
 
 
 
