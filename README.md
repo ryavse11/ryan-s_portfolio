@@ -19,6 +19,6 @@
 
 The Global MRC Segment Dashboard was created with the intent of tracking the following metrics: 1/ MRC Team's Contribution to Field Marketing, 2/ Segment Month-over-Month Performance, 3/ MRC Region Performance vs. Goals, 4/ Sub-segment / Sub-region drill-down. This information is used by Global MRC Managers, MRC Reps as well as Field Marketing stakeholders and segment leadership to understand MRC's contributions to Marketing at a segment level and performance against goals. This Tableau dashboard pulls the field marketing data from the AWS Javis database cluster. 
 
-![image](https://github.com/ryavse11/ryan-s_portfolio/assets/151677676/96a14285-3f27-4b78-808f-6cc617236a31)
+![image](https://github.com/ryavse11/ryan-s_portfolio/assets/151677676/986d8559-dd7a-4f45-8255-0f46038335c4)
 
 
