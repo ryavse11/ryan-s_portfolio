@@ -7,8 +7,11 @@ Data Analytics Portfolio
 
 
 •	Dashboard Link: https://mtableau.aka.amazon.com/#/views/2022GlobalMRCSegmentDashboard/2022FMContributionbySegment?:iid=1
+
 •	Intended Audience: Global GDSC managers, Global GDSC reps, Segment Leaders, Campaign Stakeholders, etc. 
+
 •	Metrics and Insights: 
+
 o	All Regional Team's Contribution to FM (MAL to SQL)
 o	Month-over-Month Performance per Segment
 o	Segment Attainment per each MRC Region 
