@@ -4,8 +4,6 @@ Data Analytics Portfolio
 
 <h2 align="left">1. Global MRC Segment Dashboard
   
-
-
 <h5>
 
 •	Dashboard Link: https://mtableau.aka.amazon.com/#/views/2022GlobalMRCSegmentDashboard/2022FMContributionbySegment?:iid=1
