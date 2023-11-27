@@ -28,7 +28,7 @@ The Global MRC Segment Dashboard was created with the intent of tracking the fol
 
 <h2 align="left"> 2. AMER MRC-DG Alignment Dashboard 
 
-
+<h5>
 •	Dashboard Link: https://mtableau.aka.amazon.com/#/views/USCanadaMRCDGAlignmentPersonaReport/USCanadaMRC2022DGAlignmentDashboard_1?:iid=2
 
 •	Intended Audience: AMER DG Managers, AMER GDSC Managers, AMER GDSC Reps, etc. 
