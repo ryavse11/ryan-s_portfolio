@@ -94,5 +94,8 @@ The dashboard is viewed by all segment leadership, global MRC managers, and mark
 
 
 
+![image](https://github.com/ryavse11/ryan-s_portfolio/assets/151677676/a234632e-7cc0-440e-99df-ddc156f1374f)
+
+
 
 
