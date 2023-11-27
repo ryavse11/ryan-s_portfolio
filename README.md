@@ -68,6 +68,9 @@ The dashboard is viewed by all segment leadership, global MRC managers, and mark
 ![image](https://github.com/ryavse11/ryan-s_portfolio/assets/151677676/fdae29cf-85e7-4d73-aac5-8aa83436d36f)
 
 
+
+
+
 <h2 align="left"> 4. AMER MRC Call Analysis
 
 <h5>
